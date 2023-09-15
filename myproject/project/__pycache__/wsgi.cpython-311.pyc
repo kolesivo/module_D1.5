@@ -1,0 +1,12 @@
+§
+    R¦Gd—  ã                   óh   — d Z ddlZddlmZ ej                             dd¦  «          e¦   «         ZdS )z×
+WSGI config for project project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/4.2/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzproject.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© ó    õB   D:\Ð£Ñ‡ÐµÐ±Ð°\module-D1.5_Project_Django\myproject\project\wsgi.pyú<module>r      sX   ððð ð 
+€	€	€	à 1Ð 1Ð 1Ð 1Ð 1Ð 1à „
+× Ò Ð.Ð0BÑ CÔ CÐ Cà"Ð"Ñ$Ô$€€€r   
